@@ -20,4 +20,4 @@ private:
 
 };
 
-#endif // !GENERATORNAME_H
+#endif // !GENERATORNAME_H//TEST FILE
